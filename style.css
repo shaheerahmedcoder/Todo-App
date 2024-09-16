@@ -1,0 +1,53 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+.editAdd{
+    border: 3px solid yellow;
+    padding: 5px 10px;
+    background-color: black;
+    color: yellow;
+    border-radius: 100px;
+}
+.inputedit{
+   padding: 5px 20px;
+    border: 5px solid rgb(229, 255, 0);
+    background-color: black;
+    color: yellow;
+}
+.editfront{
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.headd{
+    font-size: 3rem;
+    text-align: center;
+    border: 3px solid yellow;
+    background-color: black;
+    color: yellow;
+    margin-top: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+body{
+    background-color: rgba(193, 203, 144, 0.592);
+}
+
+.edit1{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    border-radius: 100px;
+    color: white;
+    margin-left: 15px ;
+    margin-right: 5px;
+}
+.edit2{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(13, 255, 0);
+    border-radius: 100px;
+    color: white;
+   
+}
